@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**BenKoenig/BenKoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Goals for 2022:
+- Learn how to use and apply TYPO3
+- Learn how to use and apply the Hydrogen Framework by Shopify
+- Focus on my frontend skills (react, vue, tailwind, javascript etc.)
+- Create an online service
+- Create and sell templates (typo3, shopify etc.)
+- Improve my web design skills (Figma, Photoshop, Illustrator)
 
-Here are some ideas to get you started:
+🌱 Currently learning TYPO3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+Twitter: benwkoenig
