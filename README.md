@@ -11,4 +11,3 @@
 🌱 Currently learning TYPO3
 
 📫 How to reach me:
-Twitter: benwkoenig
