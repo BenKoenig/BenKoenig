@@ -8,7 +8,5 @@
 - Create and sell templates (typo3, shopify etc.)
 - Improve my web design skills (Figma, Photoshop, Illustrator)
 
-🌱 Currently learning TYPO3
-
 📫 How to reach me:
 - Email: be.koenig99@gmail.com
