@@ -11,4 +11,4 @@
 🌱 Currently learning TYPO3
 
 📫 How to reach me:
-Email: be.koenig99@gmail.com
+- Email: be.koenig99@gmail.com
