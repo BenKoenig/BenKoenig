@@ -5,6 +5,7 @@
 - Learn how to use and apply the Hydrogen Framework by Shopify
 - Focus on my frontend skills (react, vue, tailwind, javascript etc.)
 - Create an online service
+- Step my foot into WebGL
 - Create and sell templates (typo3, shopify etc.)
 - Improve my web design skills (Figma, Photoshop, Illustrator)
 
