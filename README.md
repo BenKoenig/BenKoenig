@@ -9,5 +9,7 @@
 - Create and sell templates (typo3, shopify etc.)
 - Improve my web design skills (Figma, Photoshop, Illustrator)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenKoenig)](https://github.com/anuraghazra/github-readme-stats)
+
 📫 How to reach me:
 - Email: be.koenig99@gmail.com
